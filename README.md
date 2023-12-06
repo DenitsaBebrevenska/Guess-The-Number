@@ -20,3 +20,26 @@ Press any key to restart or ESC to exit.
 • The game uses a random number generator to select a mystery number.  
 • Your input is validated to ensure it's a valid number between 1 and 100.  
 • Receive hints about the proximity of your guess to the correct number.  
+
+## Screenshots
+### ‣ Welcoming screen  
+![intro](https://github.com/DenitsaBebrevenska/Guess-The-Number/assets/141340307/e21b97b9-0908-4dd0-9f7c-6a27db88ce12)  
+
+### ‣ Making guesses  
+![guess](https://github.com/DenitsaBebrevenska/Guess-The-Number/assets/141340307/1f976ee3-8727-413f-9a23-a3bd95c7a37a)  
+![low](https://github.com/DenitsaBebrevenska/Guess-The-Number/assets/141340307/f0852fb6-9ff2-4dfa-9aa3-4a06d33f4265)   
+
+### ‣ Invalid input
+![invalid inputs](https://github.com/DenitsaBebrevenska/Guess-The-Number/assets/141340307/57c04eb0-f6ef-4118-ba99-48826f22925e)  
+
+### ‣ Win
+![win](https://github.com/DenitsaBebrevenska/Guess-The-Number/assets/141340307/0f44a2ca-48ed-47d1-8335-408faccbafaf)  
+
+### ‣ Loss
+![loss](https://github.com/DenitsaBebrevenska/Guess-The-Number/assets/141340307/db05f79e-e925-45fa-8f47-08e41d69e2e1)  
+
+
+## Replit
+[Clicky me!](https://replit.com/@denitsabebreven/Guess-The-Number)
+
+
