@@ -40,6 +40,6 @@ Press any key to restart or ESC to exit.
 
 
 ## Replit
-[Clicky me!](https://replit.com/@denitsabebreven/Guess-The-Number)
+[Click me!](https://replit.com/@denitsabebreven/Guess-The-Number)
 
 
